@@ -2,7 +2,7 @@
 
 Proyecto del Módulo 3 de Lenguajes de Interfaz (SCC-1014).
 
-Autor: [TU NOMBRE]
+Autor: Magaña Nuñez Julio Alejandro
 
 ## De qué trata
 
@@ -55,4 +55,5 @@ La versión en C necesita hasta 64 iteraciones por número y, sin optimizaciones
 
 ## Video
 
-Explicación del proyecto: [PEGAR AQUÍ EL ENLACE DEL VIDEO]
+Explicación del proyecto: https://youtu.be/8RteBJCnt6M
+
